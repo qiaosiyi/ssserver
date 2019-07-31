@@ -20,7 +20,7 @@ make
 
 ./mpi_hello_world
 
-
+tag#0$description#master$port#36943$ifname#192.168.187.160$
 
 
 
