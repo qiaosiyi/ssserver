@@ -1,2 +1,2 @@
-sudo apt-get install ssh git curl zsh -y
+sudo apt-get install ssh vim git curl zsh -y
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
