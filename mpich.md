@@ -5,7 +5,9 @@ wget http://www.mpich.org/static/downloads/3.2.1/mpich-3.2.1.tar.gz
 tar xvf mpich-3.2.1.tar.gz
 
 mkdir tools
+
 cd tools
+
 mkdir mpi
 
 cd ../../mpich-3.2.1
