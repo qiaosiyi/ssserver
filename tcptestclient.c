@@ -23,6 +23,7 @@ int main(int argc, char *argv[]){
    printf("client mpi rank = %d, size = %d, dest = %d, tag = %d\n",rank, size, dest, tag);
    MPI_Comm_disconnect(&servidor);
    MPI_Finalize();
+   free(msg_string);
 }
 
 
